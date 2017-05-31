@@ -1,5 +1,5 @@
 {
-  "name": "ionicdave",
+  "name": "ionic-meteor-3tab-boilerplate",
   "private": true,
   "scripts": {
     "start": "meteor run"
